@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://Bishop9243.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
+title: 标题
+subtitle: "副标题"
+description: "描述（不显示在网页）"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2024
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: Bishop9243/Biahop9243.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Wang
 organization: 
 organization_url: 
 github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+location: Beijing, China
+email: 1593637394@qq.com
 
 # ---------------- #
 #    Navigation    #
